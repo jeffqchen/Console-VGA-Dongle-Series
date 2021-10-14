@@ -1,5 +1,11 @@
 # Console-VGA-Dongle-Series
 
+<img src="./Pics/SNES2VGA.jpg" width="200px" />
+<img src="./Pics/8DIN2VGA.jpg" width="200px" />
+<img src="./Pics/gscartsw2VGA.jpg" width="200px" />
+<img src="./Pics/MVX.jpg" width="200px" />
+<img src="./Pics/RT5X.jpg" width="200px" />
+
 Everyone using the SCART cables for RGBS has had enough. They are inconsistent in quality, the plug is huge and unreliable, the audio buzzing drives you crazy.
 
 In contrast, the physical connection for the VGA cable is much more reliable. You can easily extend the cable length with couplers. And they are cheap and readily available. But this only scratches the surface.
@@ -43,16 +49,20 @@ To-do list:
 Here are the links to the various released projects:
 
 ## Consoles
+
+<img src="./Pics/SNES2VGA.jpg" width="400px" />
 Nintendo consoles - SNES2VGA
 - https://github.com/jeffqchen/SNES2VGA
 
+<img src="./Pics/8DIN2VGA.jpg" width="400px" />
 8DIN2VGA
 - https://github.com/jeffqchen/8DIN2VGA
 
 ## Devices
-
+<img src="./Pics/MVX.jpg" width="400px" />
 MVX Audio Separator/Combiner
 - https://github.com/jeffqchen/MVX-Audio-Separator-Combiner
 
+<img src="./Pics/gscartsw2VGA.jpg" width="400px" />
 gscartsw2VGA
 - https://github.com/jeffqchen/gscartsw2VGA
