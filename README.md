@@ -52,19 +52,23 @@ Here are the links to the various released projects:
 ## Consoles
 
 <img src="./Pics/SNES2VGA.jpg" width="400px" />
+
 Nintendo consoles - SNES2VGA
 - https://github.com/jeffqchen/SNES2VGA
 
 <img src="./Pics/8DIN2VGA.jpg" width="400px" />
+
 8DIN2VGA
 - https://github.com/jeffqchen/8DIN2VGA
 
 ## Devices
 <img src="./Pics/MVX.jpg" width="400px" />
+
 MVX Audio Separator/Combiner
 - https://github.com/jeffqchen/MVX-Audio-Separator-Combiner
 
 <img src="./Pics/gscartsw2VGA.jpg" width="400px" />
+
 gscartsw2VGA
 - https://github.com/jeffqchen/gscartsw2VGA
 
@@ -73,12 +77,15 @@ gscartsw2VGA
 
 ### RetroTINK 5X Pro
 <img src="./Pics/RT5X.jpg" width="400px" />
+
 One of the best video upscalers you could buy. Regrettably with a reversed SCART port. My dongle stand takes the SCART port and converts it into VGA, while providing a visually appealing dock for the device.
 
 ### gscartsw
 <img src="./Pics/gscartsw2VGA.jpg" width="400px" />
+
 This SCART switch has a great sync regeneration function. This alone makes it worthy to be included, since the PlayStation family does not output C-Sync and this could cause problem with video switches and capture devices.
 
 ### Extron MVX Switch
 <img src="./Pics/MVX2.jpg" width="400px" />
+
 A very powerful video signal switch with audio support, that's actually very affordable. It's too good to pass up if you have a complicated setup.
