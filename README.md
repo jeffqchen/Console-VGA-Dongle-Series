@@ -18,7 +18,7 @@ Currently supported consoles
 - 3DO (3DORGB, Mini DIN 8 pin)
 
 Currently supported devices
-- RetroTINK 5X Pro (WIP)
+- RetroTINK 5X Pro (pending final verification)
 - Extron MVX VGA Switch
 - gscartsw
 
