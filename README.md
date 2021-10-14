@@ -73,7 +73,7 @@ gscartsw2VGA
 - https://github.com/jeffqchen/gscartsw2VGA
 
 -----
-## Reasons for involving some of the Devices
+## Reasons for Involving Some of The Devices
 
 ### RetroTINK 5X Pro
 <img src="./Pics/RT5X.jpg" width="400px" />
