@@ -1,8 +1,8 @@
 # Console-VGA-Dongle-Series
 
-<img src="./Pics/SNES2VGA.jpg" width="200px" /><img src="./Pics/8DIN2VGA.jpg" width="200px" /><img src="./Pics/gscartsw2VGA.jpg" width="200px" />
+<img src="./Pics/SNES2VGA.jpg" width="200px" /><img src="./Pics/8DIN2VGA.jpg" width="200px" />
 
-<img src="./Pics/MVX.jpg" width="200px" /><img src="./Pics/RT5X.jpg" width="200px" />
+<img src="./Pics/gscartsw2VGA.jpg" width="200px" /><img src="./Pics/MVX.jpg" width="200px" /><img src="./Pics/RT5X.jpg" width="200px" />
 
 Everyone using the SCART cables for RGBS has had enough. They are inconsistent in quality, the plug is huge and unreliable, the audio buzzing drives you crazy.
 
@@ -20,27 +20,26 @@ With this in mind, I've decided to have a 3.5mm audio jack on the console side t
 
 For each of the console-side dongles, I have made sure necessary components were present. For example, the SNES require two different sets of components for NTSC and PAL, and the PCB design took both into account, while providing various sync options. The 5V line from various consoles is also preserved, just in case the signal needs to be converted back to a SCART plug for terminal display devices.
 
-
 -----
 
 
-##Currently supported consoles
+## Currently supported consoles
 - Nintendo Famicom (NESRGB, Mini DIN 8 pin)
 - Nintendo AV Famicom/Super Famicom/Super NES (AV Multi)
 - Nintendo 64 (Various RGB mods)
 - Nintendo GameCube (GCDual)
 - 3DO (3DORGB, Mini DIN 8 pin)
 
-##Currently supported devices
+## Currently supported devices
 - RetroTINK 5X Pro (pending final verification)
 - Extron MVX VGA Switch
 - gscartsw
 
-##Also works with
+## Also works with
 - OSSC 1.6
 - GBS Control
 
-##To-do list:
+## To-do list:
 - Sega Genesis/Mega Drive (Mini DIN 9 pin)
 - PlayStation 1/2/3 (Sony AV Multi)
 - Sega Saturn (Mini DIN 10 pin) (Might require drastic modding)
@@ -68,3 +67,18 @@ MVX Audio Separator/Combiner
 <img src="./Pics/gscartsw2VGA.jpg" width="400px" />
 gscartsw2VGA
 - https://github.com/jeffqchen/gscartsw2VGA
+
+-----
+## Reasons for involving some of the Devices
+
+### RetroTINK 5X Pro
+<img src="./Pics/RT5X.jpg" width="400px" />
+One of the best video upscalers you could buy. Regrettably with a reversed SCART port. My dongle stand takes the SCART port and converts it into VGA, while providing a visually appealing dock for the device.
+
+### gscartsw
+<img src="./Pics/gscartsw2VGA.jpg" width="400px" />
+This SCART switch has a great sync regeneration function. This alone makes it worthy to be included, since the PlayStation family does not output C-Sync and this could cause problem with video switches and capture devices.
+
+### Extron MVX Switch
+<img src="./Pics/MVX2.jpg" width="400px" />
+A very powerful video signal switch with audio support, that's actually very affordable. It's too good to pass up if you have a complicated setup.
