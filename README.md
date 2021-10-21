@@ -89,3 +89,18 @@ This SCART switch has a great sync regeneration function. This alone makes it wo
 <img src="./Pics/MVX2.jpg" width="400px" />
 
 A very powerful video signal switch with audio support, that's actually very affordable. It's too good to pass up if you have a complicated setup.
+
+-----
+
+## Special Thanks
+
+### RetroRGB (for all the available information regarding RGB)
+- Website: https://www.retrorgb.com
+- Twitter: https://twitter.com/RetroRGB
+
+### Mike Chi (for the encouragements and technical details regarding the standard)
+- Website: https://www.retrotink.com
+- Twitter: https://twitter.com/retrotink2
+
+### Javier Rodas (for the various EE-related suggestions)
+- Twitter: https://twitter.com/JaviRodasG
