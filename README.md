@@ -73,6 +73,15 @@ gscartsw2VGA
 - https://github.com/jeffqchen/gscartsw2VGA
 
 -----
+## Suppliment Projects
+
+<img src="./Pics/extron35mm.jpg" width="400px" />
+
+Extron Audio 3.5mm Adapter
+
+- https://github.com/jeffqchen/Extron-Audio-3.5mm-Adapter
+
+-----
 ## Reasons for Involving Some of The Devices
 
 ### RetroTINK 5X Pro
