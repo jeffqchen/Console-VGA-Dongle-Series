@@ -8,32 +8,6 @@ Everyone using the SCART cables for RGBS has had enough. They are inconsistent i
 
 In contrast, the physical connection for the VGA cable is much more reliable. You can easily extend the cable length with couplers. And they are cheap and readily available. But this only scratches the surface.
 
------
-
-## Some Technical Details
-
-An ordinary VGA cable has 3 coaxial cables for RGB signals, and a bunch of other wires. I used the RGB channels as intended, as well as the horizontal sync (pin 13) for sync signal. Stereo audio runs through pin 12 (left) and pin 15 (right), with capacitors to isolate any possible DC voltage. This pinout makes sure the signals comply with ordinary VGA devices, so nothing would blow up if you accidentally plug the other end into something standard.
-
-With RGB channels well-shielded, the remaining unshielded sync line will slightly couple into the the audio channels. With a normal 2-meter run, at normal hearing volume level, the buzzing is not audible. I experimented by connecting 5 of 2-meter VGA cables, and the buzzing noise finally became slightly audible.
-
-With this in mind, I've decided to have a 3.5mm audio jack on the console side to enable audio breakout, right at the source. You can choose to carry the audio down the VGA cable by not using that jack. It's all about options.
-
-For each of the console-side dongles, I have made sure necessary components were present. For example, the SNES require two different sets of components for NTSC and PAL, and the PCB design took both into account, while providing various sync options. The 5V line from various consoles is also preserved, just in case the signal needs to be converted back to a SCART plug for terminal display devices.
-
-### Why not RGBHV??
-
-Many game consoles are capable of generating the RGB + CSync video signal, either natively or with some form of modding. If I were to convert CSync into HV, extra components would be introduced. This complicates the circuit designs and adds extra cost. I would not want to see this happening unnecessarily to ALL the devices in the circle.
-
-Also, since sync lines inside VGA cables are usually not shielded, an extra sync line would become another source of noise, which would further cripple the audio quality.
-
-With all the reasons above, I've decided to go with the RGB + CSync standard version of VGA pinout.
-
-If a console outputs RGBHV natively and exclusively, there will have to be a dongle to convert it into CSync, in order to join the RGBS circle. This makes sure the complicity, cost and signal processing is only applied to these specific consoles, instead of everyone.
-
-If you wish to use RGBHV displays, you could use a sync separator, or various scan converters (RetroTINK 5X, OSSC, GBS Control, etc) to achieve the goal.
-
------
-
 
 ## Currently supported consoles
 - Nintendo Famicom (NESRGB, Mini DIN 8 pin)
@@ -59,7 +33,31 @@ If you wish to use RGBHV displays, you could use a sync separator, or various sc
 
 -----
 
-Here are the links to the various released projects:
+## Some Technical Details
+
+An ordinary VGA cable has 3 coaxial cables for RGB signals, and a bunch of other wires. I used the RGB channels as intended, as well as the horizontal sync (pin 13) for sync signal. Stereo audio runs through pin 12 (left) and pin 15 (right), with capacitors to isolate any possible DC voltage. This pinout makes sure the signals comply with ordinary VGA devices, so nothing would blow up if you accidentally plug the other end into something standard.
+
+With RGB channels well-shielded, the remaining unshielded sync line will slightly couple into the the audio channels. With a normal 2-meter run, at normal hearing volume level, the buzzing is not audible. I experimented by connecting 5 of 2-meter VGA cables, and the buzzing noise finally became slightly audible.
+
+With this in mind, I've decided to have a 3.5mm audio jack on the console side to enable audio breakout, right at the source. You can choose to carry the audio down the VGA cable by not using that jack. It's all about options.
+
+For each of the console-side dongles, I have made sure necessary components were present. For example, the SNES require two different sets of components for NTSC and PAL, and the PCB design took both into account, while providing various sync options. The 5V line from various consoles is also preserved, just in case the signal needs to be converted back to a SCART plug for terminal display devices.
+
+### Why not RGBHV??
+
+Many game consoles are capable of generating the RGB + CSync video signal, either natively or with some form of modding. If I were to convert all the CSync signals into HV, extra components would have to be introduced. This complicates the circuit designs and adds extra cost, while possibly affecting signal integrity. I would rather not to see this happening unnecessarily to ALL the devices in the circle.
+
+Also, since sync lines inside VGA cables are usually not shielded, an extra sync line would become another source of noise, which would further cripple the audio quality.
+
+With all the reasons above, I've decided to go with the RGB + CSync standard version of VGA pinout.
+
+If a console outputs RGB+HV natively and exclusively, there will have to be a dongle to combine HV sync into CSync, in order to join the RGBS circle. This makes sure the extra complexity, cost and signal processing is only applied to these specific consoles, instead of every device.
+
+If you wish to use RGBHV displays, you could use a sync separator, or various scan converters (RetroTINK 5X, OSSC, GBS Control, etc) to achieve the goal.
+
+-----
+
+## Links to the various released projects:
 
 ## Consoles
 
