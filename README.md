@@ -35,13 +35,23 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 
 ## Some Technical Details
 
-An ordinary VGA cable has 3 coaxial cables for RGB signals, and a bunch of other wires. I used the RGB channels as intended, as well as the horizontal sync (pin 13) for sync signal. Stereo audio runs through pin 12 (left) and pin 15 (right), with capacitors to isolate any possible DC voltage. This pinout makes sure the signals comply with ordinary VGA devices, so nothing would blow up if you accidentally plug the other end into something standard.
+### Video
 
-With RGB channels well-shielded, the remaining unshielded sync line will slightly couple into the the audio channels. With a normal 2-meter run, at normal hearing volume level, the buzzing is not audible. I experimented by connecting 5 of 2-meter VGA cables, and the buzzing noise finally became slightly audible.
+An ordinary VGA cable has 3 coaxial cables for RGB signals, and a bunch of other wires. I used the RGB channels as intended, as well as the horizontal sync (pin 13) for sync signal. This is one variation of the VGA pinout standard.
 
-With this in mind, I've decided to have a 3.5mm audio jack on the console side to enable audio breakout, right at the source. You can choose to carry the audio down the VGA cable by not using that jack. It's all about options.
+### Audio
 
-For each of the console-side dongles, I have made sure necessary components were present. For example, the SNES require two different sets of components for NTSC and PAL, and the PCB design took both into account, while providing various sync options. The 5V line from various consoles is also preserved, just in case the signal needs to be converted back to a SCART plug for terminal display devices.
+Stereo audio runs through pin 12 (left) and pin 15 (right), with capacitors to isolate any possible DC voltage. This pinout makes sure the signals comply with ordinary VGA devices, so nothing would blow up if you accidentally plugged the other end into a standard VGA device.
+
+Even though the RGB channels are well-shielded, the remaining unshielded sync line will still slightly couple into the the audio channels. With a normal 2-meter run, at normal hearing volume level, the buzzing noise is not audible. I experimented by connecting 5 of 2-meter VGA cables end to end with couplers, and the buzzing noise only finally became slightly audible.
+
+With this in mind, I've decided to have a 3.5mm audio jack on the console side to enable audio breakout right at the source. You will be able to choose to carry the audio down the VGA cable by not using that jack. It's all about options.
+
+### Components
+
+For each of the console-side dongles, I have made sure necessary components were present.
+
+For example, the SNES require two different sets of components for NTSC and PAL, and the PCB design took both into account, while providing various sync options. The 5V line from various consoles is also preserved, just in case the signal needs to be converted back to a SCART plug for terminal display devices.
 
 ### Why not RGBHV??
 
