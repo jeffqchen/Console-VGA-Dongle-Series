@@ -19,7 +19,7 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 ## Currently supported devices
 - [RetroTINK 5X Pro](https://www.retrotink.com/product-page/5x-pro)
 - [gscartsw](http://www.gretrostuff.com/store/gscartsw/)
-- Extron MVX VGA Switch
+- [Extron MVX VGA Switch](https://www.extron.com/VGA-Stereo-Audio-Matrix-Switchers/prodsubtype-136) (Check eBay for affordable listings)
 
 ## Also works with
 - [GBS Control](https://github.com/ramapcsx2/gbs-control)
