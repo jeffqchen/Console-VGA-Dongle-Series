@@ -31,7 +31,7 @@ For each of the console-side dongles, I have made sure necessary components were
 - 3DO (3DORGB, Mini DIN 8 pin)
 
 ## Currently supported devices
-- RetroTINK 5X Pro (pending final verification)
+- RetroTINK 5X Pro
 - Extron MVX VGA Switch
 - gscartsw
 
@@ -62,15 +62,21 @@ Nintendo consoles - SNES2VGA
 - https://github.com/jeffqchen/8DIN2VGA
 
 ## Devices
-<img src="./Pics/MVX.jpg" width="400px" />
 
-MVX Audio Separator/Combiner
-- https://github.com/jeffqchen/MVX-Audio-Separator-Combiner
+<img src="./Pics/RT5X.jpg" width="400px" />
+
+RetroTINK 5X SCART Dock
+- https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock
 
 <img src="./Pics/gscartsw2VGA.jpg" width="400px" />
 
 gscartsw2VGA
 - https://github.com/jeffqchen/gscartsw2VGA
+
+<img src="./Pics/MVX.jpg" width="400px" />
+
+MVX Audio Separator/Combiner
+- https://github.com/jeffqchen/MVX-Audio-Separator-Combiner
 
 -----
 ## Suppliment Projects
