@@ -35,9 +35,19 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 
 ## Some Technical Details
 
+### Why VGA?
+
+VGA cables are usually designed to an acceptable standard, with 3 coaxial mini cables for RGB channels, and shielding on the outside, with anti-interference ferrite cores on both ends.
+
+VGA cables have thumb screws to secure the physical connection to devices.
+
+VGA cables are abundantly available. They are being phased out at the moment, therefore, it is quite easy to find them at dirt cheap prices.
+
+VGA cables can be easily spliced together with couplers that are not expensive. This makes it possible to create long cable runs with shorter cables at hand, or install as wall panels behind drywalls.
+
 ### Video
 
-An ordinary VGA cable has 3 coaxial cables for RGB signals, and a bunch of other wires. I used the RGB channels as intended, as well as the horizontal sync (pin 13) for sync signal. This is one variation of the VGA pinout standard.
+An ordinary VGA cable has 3 coaxial cables for RGB signals, as well as a bunch of other wires built in. I used the RGB channels as intended, as well as the horizontal sync (pin 13) for sync signal. This is one variation from the VGA pinout standards.
 
 ### Audio
 
