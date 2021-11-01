@@ -20,6 +20,18 @@ With this in mind, I've decided to have a 3.5mm audio jack on the console side t
 
 For each of the console-side dongles, I have made sure necessary components were present. For example, the SNES require two different sets of components for NTSC and PAL, and the PCB design took both into account, while providing various sync options. The 5V line from various consoles is also preserved, just in case the signal needs to be converted back to a SCART plug for terminal display devices.
 
+### Why not RGBHV??
+
+Many game consoles are capable of generating the RGB + CSync video signal, either natively or with some form of modding. If I were to convert CSync into HV, extra components would be introduced. This complicates the circuit designs and adds extra cost. I would not want to see this happening unnecessarily to ALL the devices in the circle.
+
+Also, since sync lines inside VGA cables are usually not shielded, an extra sync line would become another source of noise, which would further cripple the audio quality.
+
+With all the reasons above, I've decided to go with the RGB + CSync standard version of VGA pinout.
+
+If a console outputs RGBHV natively and exclusively, there will have to be a dongle to convert it into CSync, in order to join the RGBS circle. This makes sure the complicity, cost and signal processing is only applied to these specific consoles, instead of everyone.
+
+If you wish to use RGBHV displays, you could use a sync separator, or various scan converters (RetroTINK 5X, OSSC, GBS Control, etc) to achieve the goal.
+
 -----
 
 
