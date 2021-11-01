@@ -10,26 +10,26 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 
 
 ## Currently supported consoles
-- Nintendo Famicom (NESRGB, Mini DIN 8 pin)
-- Nintendo AV Famicom/Super Famicom/Super NES (AV Multi)
-- Nintendo 64 (Various RGB mods)
-- Nintendo GameCube (GCDual)
-- 3DO (3DORGB, Mini DIN 8 pin)
+- Nintendo Famicom ([NESRGB](https://etim.net.au/nesrgb/), Mini DIN 8 pin)
+- Nintendo AV Famicom/Super Famicom/Super NES (AV Multi/[Bypass mod](https://github.com/borti4938/SNES_RGB_Bypass))
+- Nintendo 64 ([N64Digital](https://docs.pixelfx.co/N64Digital-Details.html), [N64RGB](https://etim.net.au/n64rgb/), [Simple RGB Mod](https://voultar.com/index.php?route=product/product&product_id=50), UltraHDMI)
+- Nintendo GameCube ([GCDual](https://www.black-dog.tech/gcdual-5-3.html))
+- 3DO ([3DORGB](https://github.com/citrus3000psi/3DORGB), Mini DIN 8 pin)
 
 ## Currently supported devices
-- RetroTINK 5X Pro
+- [RetroTINK 5X Pro](https://www.retrotink.com/product-page/5x-pro)
+- [gscartsw](http://www.gretrostuff.com/store/gscartsw/)
 - Extron MVX VGA Switch
-- gscartsw
 
 ## Also works with
-- OSSC 1.6
-- GBS Control
+- [GBS Control](https://github.com/ramapcsx2/gbs-control)
+- [OSSC](https://github.com/marqs85/ossc)
 
 ## To-do list:
 - Sega Genesis/Mega Drive (Mini DIN 9 pin)
 - PlayStation 1/2/3 (Sony AV Multi)
 - Sega Saturn (Mini DIN 10 pin) (Might require drastic modding)
-- VGA2SCART dongle for terminal display device
+- VGA2SCART dongle for terminal SCART devices
 
 -----
 
