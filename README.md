@@ -79,7 +79,7 @@ With all the reasons above, I've decided to go with the RGB + CSync standard ver
 
 If a console outputs RGB+HV natively and exclusively, there will have to be a dongle to combine HV sync into CSync, in order to join the RGBS circle. This makes sure the extra complexity, cost and signal processing is only applied to these specific consoles, instead of every device.
 
-If you wish to use RGBHV displays, you could use a sync separator, or various scan converters (RetroTINK 5X, OSSC, GBS Control, etc) to achieve the goal.
+If you wish to use RGBHV displays, you could use a sync separator, or various scan converters (RetroTINK 5X, OSSC, etc) to achieve the goal.
 
 -----
 
