@@ -20,6 +20,7 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 - [RetroTINK 5X Pro](https://www.retrotink.com/product-page/5x-pro)
 - [gscartsw](http://www.gretrostuff.com/store/gscartsw/)
 - [Extron MVX VGA Switch](https://www.extron.com/VGA-Stereo-Audio-Matrix-Switchers/prodsubtype-136) (Check eBay for affordable listings)
+- [VGAxSCART Bi-Directional Dongle](https://github.com/jeffqchen/VGAxSCART) for generic SCART devices
 
 ## Also works with
 - [GBS Control](https://github.com/ramapcsx2/gbs-control)
@@ -29,7 +30,6 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 - Sega Genesis/Mega Drive (Mini DIN 9 pin)
 - PlayStation 1/2/3 (Sony AV Multi)
 - Sega Saturn (Mini DIN 10 pin) (Might require drastic modding)
-- VGA2SCART dongle for terminal SCART devices
 
 -----
 
