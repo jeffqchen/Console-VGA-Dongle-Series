@@ -123,6 +123,12 @@ Extron Audio 3.5mm Adapter
 
 - https://github.com/jeffqchen/Extron-Audio-3.5mm-Adapter
 
+<img src="./Pics/VGAxSCART.jpg" width="400px" />
+
+VGAxSCART Bi-Directional Dongle
+
+- https://github.com/jeffqchen/VGAxSCART
+
 -----
 ## Reasons for Involving Some of The Devices
 
