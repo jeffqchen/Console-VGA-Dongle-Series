@@ -27,8 +27,8 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 - [OSSC](https://github.com/marqs85/ossc)
 
 ## To-do list:
-- Sega Genesis/Mega Drive (Mini DIN 9 pin)
-- PlayStation 1/2/3 (Sony AV Multi)
+- Sega Genesis/Mega Drive (Mini DIN 9 pin) - Pending final verification
+- PlayStation 1/2/3 (Sony AV Multi) - WIP
 - Sega Saturn (Mini DIN 10 pin) (Might require drastic modding)
 
 -----
