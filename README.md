@@ -14,7 +14,9 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 - Nintendo AV Famicom/Super Famicom/Super NES (AV Multi/[Bypass mod](https://github.com/borti4938/SNES_RGB_Bypass))
 - Nintendo 64 ([N64Digital](https://docs.pixelfx.co/N64Digital-Details.html), [N64RGB](https://etim.net.au/n64rgb/), [Simple RGB Mod](https://voultar.com/index.php?route=product/product&product_id=50), UltraHDMI)
 - Nintendo GameCube ([GCDual](https://www.black-dog.tech/gcdual-5-3.html))
-- 3DO ([3DORGB](https://github.com/citrus3000psi/3DORGB), Mini DIN 8 pin)
+- 3DO ([3DORGB](https://github.com/citrus3000psi/3DORGB), Mini DIN 8/9 pin)
+- Sega Genesis/Mega Drive 2 (Mini DIN 9 pin)
+- TerraOnion SSDS3 for PC Engine
 
 ## Currently supported devices
 - [RetroTINK 5X Pro](https://www.retrotink.com/product-page/5x-pro)
@@ -27,7 +29,6 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 - [OSSC](https://github.com/marqs85/ossc)
 
 ## To-do list:
-- Sega Genesis/Mega Drive (Mini DIN 9 pin) - Pending final verification
 - PlayStation 1/2/3 (Sony AV Multi) - WIP
 - Sega Saturn (Mini DIN 10 pin) (Might require drastic modding)
 
