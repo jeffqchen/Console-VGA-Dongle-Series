@@ -19,6 +19,7 @@ SNES2VGA
 8DIN2VGA
 - Nintendo Famicom ([NESRGB](https://etim.net.au/nesrgb/), Mini DIN 8 pin)
 - 3DO ([3DORGB](https://github.com/citrus3000psi/3DORGB), Mini DIN 8/9 pin)
+- [Minigun Supergun](https://www.arcade-projects.com/threads/minigun-supergun-an-open-source-supergun.9408/)
 
 9DIN2VGA
 - Sega Genesis/Mega Drive 2 (Mini DIN 9 pin)
@@ -57,7 +58,7 @@ SNES2VGA for Nintendo consoles
 
 <img src="./Pics/8DIN2VGA.jpg" width="400px" />
 
-8DIN2VGA for NESRGB, 3DORGB and MiniGun
+8DIN2VGA for NESRGB, 3DORGB and Minigun
 - https://github.com/jeffqchen/8DIN2VGA
 
 <img src="./Pics/9DIN2VGA.jpg" width="400px" />
