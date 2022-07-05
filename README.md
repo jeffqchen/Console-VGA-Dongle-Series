@@ -11,21 +11,25 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 
 ## Currently supported consoles
 
-SNES2VGA
+### [SNES2VGA](https://github.com/jeffqchen/SNES2VGA)
 - Nintendo AV Famicom/Super Famicom/Super NES (AV Multi/[Bypass mod](https://github.com/borti4938/SNES_RGB_Bypass))
 - Nintendo 64 ([N64Digital](https://docs.pixelfx.co/N64Digital-Details.html), [N64RGB](https://etim.net.au/n64rgb/), [Simple RGB Mod](https://voultar.com/index.php?route=product/product&product_id=50), UltraHDMI)
 - Nintendo GameCube ([GCDual](https://www.black-dog.tech/gcdual-5-3.html))
 
-8DIN2VGA
+### PS2VGA
+- PlayStation 1/2/3 (Sony AV Multi) - WIP
+
+### [8DIN2VGA](https://github.com/jeffqchen/8DIN2VGA)
 - Nintendo Famicom ([NESRGB](https://etim.net.au/nesrgb/), Mini DIN 8 pin)
 - 3DO ([3DORGB](https://github.com/citrus3000psi/3DORGB), Mini DIN 8/9 pin)
 - [Minigun Supergun](https://www.arcade-projects.com/threads/minigun-supergun-an-open-source-supergun.9408/)
+- Sega Saturn (via [Sega Saturn 8-pin mini DIN Mod](https://github.com/jeffqchen/Saturn8DINMod))
 
-9DIN2VGA
+### [9DIN2VGA](https://github.com/jeffqchen/9DIN2VGA)
 - Sega Genesis/Mega Drive 2 (Mini DIN 9 pin)
 - TerraOnion SSDS3 for PC Engine
 
-DC2VGA
+### [DC2VGA](https://github.com/jeffqchen/DC2VGA)
 - Sega Dreamcast
 
 ## Currently supported devices
@@ -40,10 +44,6 @@ DC2VGA
 ## Also works with
 - [GBS Control](https://github.com/ramapcsx2/gbs-control)
 - [OSSC](https://github.com/marqs85/ossc)
-
-## To-do list:
-- PlayStation 1/2/3 (Sony AV Multi) - WIP
-- Sega Saturn (Mini DIN 10 pin) (Might require drastic modding)
 
 -----
 
