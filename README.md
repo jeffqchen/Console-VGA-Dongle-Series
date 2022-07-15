@@ -16,8 +16,8 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 - Nintendo 64 ([N64Digital](https://docs.pixelfx.co/N64Digital-Details.html), [N64RGB](https://etim.net.au/n64rgb/), [Simple RGB Mod](https://voultar.com/index.php?route=product/product&product_id=50), UltraHDMI)
 - Nintendo GameCube ([GCDual](https://www.black-dog.tech/gcdual-5-3.html))
 
-### PS2VGA
-- PlayStation 1/2/3 (Sony AV Multi) - WIP
+### [PS2VGA](https://github.com/jeffqchen/PS2VGA)
+- PlayStation 1/2/3 (Sony AV Multi)
 
 ### [8DIN2VGA](https://github.com/jeffqchen/8DIN2VGA)
 - Nintendo Famicom ([NESRGB](https://etim.net.au/nesrgb/), Mini DIN 8 pin)
