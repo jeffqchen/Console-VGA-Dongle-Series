@@ -185,3 +185,6 @@ If you wish to use RGBHV displays, you could use a sync separator, or various sc
 
 ### Javier Rodas (for the various EE-related suggestions)
 - Twitter: https://twitter.com/JaviRodasG
+
+### InvictvsNox (for suggesting separate 3.5mm audio in one of the projects, which became a universal standard for most of my projects)
+- Twitter: https://twitter.com/InvictvsNox
