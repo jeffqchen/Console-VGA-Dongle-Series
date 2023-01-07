@@ -29,6 +29,9 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 - Sega Genesis/Mega Drive 2 (Mini DIN 9 pin)
 - TerraOnion SSDS3 for PC Engine
 
+### [10DIN2VGA](https://github.com/jeffqchen/10DIN2VGA)
+- Sega Saturn
+
 ### [DC2VGA](https://github.com/jeffqchen/DC2VGA)
 - Sega Dreamcast
 
@@ -56,6 +59,11 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 SNES2VGA for Nintendo consoles
 - https://github.com/jeffqchen/SNES2VGA
 
+<img src="./Pics/ps2vga.jpg" width="400px" />
+
+PS2VGA for Sony Playstation Consoles
+- https://github.com/jeffqchen/PS2VGA
+
 <img src="./Pics/8DIN2VGA.jpg" width="400px" />
 
 8DIN2VGA for NESRGB, 3DORGB and Minigun
@@ -65,6 +73,11 @@ SNES2VGA for Nintendo consoles
 
 9DIN2VGA for Sega Mega Drive/Genesis 2 and SSDS3
 - https://github.com/jeffqchen/9DIN2VGA
+
+<img src="./Pics/10DIN2VGA.jpg" width="400px" />
+
+10DIN2VGA for Sega Saturn
+- https://github.com/jeffqchen/10DIN2VGA
 
 <img src="./Pics/DC2VGA.jpg" width="400px" />
 
