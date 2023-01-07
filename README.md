@@ -61,25 +61,35 @@ In contrast, the physical connection for the VGA cable is much more reliable. Yo
 SNES2VGA for Nintendo consoles
 - https://github.com/jeffqchen/SNES2VGA
 
+-----
+
 <img src="./Pics/ps2vga.jpg" width="400px" />
 
 PS2VGA for Sony Playstation Consoles
 - https://github.com/jeffqchen/PS2VGA
+
+-----
 
 <img src="./Pics/8DIN2VGA.jpg" width="400px" />
 
 8DIN2VGA for NESRGB, 3DORGB and Minigun
 - https://github.com/jeffqchen/8DIN2VGA
 
+-----
+
 <img src="./Pics/9DIN2VGA.jpg" width="400px" />
 
 9DIN2VGA for Sega Mega Drive/Genesis 2 and SSDS3
 - https://github.com/jeffqchen/9DIN2VGA
 
+-----
+
 <img src="./Pics/10DIN2VGA.jpg" width="400px" />
 
 10DIN2VGA for Sega Saturn
 - https://github.com/jeffqchen/10DIN2VGA
+
+-----
 
 <img src="./Pics/DC2VGA.jpg" width="400px" />
 
@@ -93,10 +103,14 @@ DC2VGA for Sega Dreamcast
 RetroTINK 5X SCART Dock
 - https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock
 
+-----
+
 <img src="./Pics/gscartsw2VGA.jpg" width="400px" />
 
 gscartsw2VGA
 - https://github.com/jeffqchen/gscartsw2VGA
+
+-----
 
 <img src="./Pics/MVX.jpg" width="400px" />
 
@@ -111,6 +125,8 @@ MVX Audio Separator/Combiner
 Extron Audio 3.5mm Adapter
 
 - https://github.com/jeffqchen/Extron-Audio-3.5mm-Adapter
+
+-----
 
 <img src="./Pics/VGAxSCART.jpg" width="400px" />
 
