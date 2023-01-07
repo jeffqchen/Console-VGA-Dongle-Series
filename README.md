@@ -2,6 +2,8 @@
 
 <img src="./Pics/SNES2VGA.jpg" width="200px" /><img src="./Pics/8DIN2VGA.jpg" width="200px" /><img src="./Pics/DC2VGA.jpg" width="200px" />
 
+<img src="./Pics/PS2VGA.jpg" width="300px" /><img src="./Pics/10DIN2VGA.jpg" width="300px" />
+
 <img src="./Pics/gscartsw2VGA.jpg" width="200px" /><img src="./Pics/MVX.jpg" width="200px" /><img src="./Pics/RT5X.jpg" width="200px" />
 
 Everyone using the SCART cables for RGBS has had enough. They are inconsistent in quality, the plug is huge and unreliable, the audio buzzing drives you crazy.
