@@ -103,6 +103,11 @@ DC2VGA for Sega Dreamcast
 RetroTINK 5X SCART Dock
 - https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock
 
+<img src="./Pics/RT4K.jpg" width="400px" />
+
+RetroTINK 4K SCART2VGA Adapter
+- https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter
+
 -----
 
 <img src="./Pics/gscartsw2VGA.jpg" width="400px" />
